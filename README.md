@@ -12,16 +12,21 @@ A two-screen BMI calculator built with Flutter and Dart.
 
 ## Design
 
-![bmi-ui.png](..%2F..%2F..%2F..%2FDownloads%2Fbmi-ui.png)
+![bmi-ui](https://github.com/saladel/bmi_calculator/assets/53665585/c2f87be4-fd93-44b4-98dd-8d5c3c655840)
+
 [Link to dribbble design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 
 ## iOS Demo
 
-[iOS Demo.mp4](..%2F..%2F..%2F..%2FDownloads%2FiOS%20Demo.mp4)
+https://github.com/saladel/bmi_calculator/assets/53665585/06e28f7a-cb63-4857-9e1f-38eff6d281d5
 
 ## Android Demo
 
+https://github.com/saladel/bmi_calculator/assets/53665585/a5db5645-b1e2-4b71-83f2-ccca64487727
+
+
 ## Android APK
+[Download APK (18.7M)](https://drive.google.com/file/d/1q-PUcM84T2YlBcrEtd4T14GE1DLSswgW/view?usp=sharing)
 
 #
 
