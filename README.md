@@ -26,7 +26,7 @@ https://github.com/saladel/bmi_calculator/assets/53665585/a5db5645-b1e2-4b71-83f
 
 
 ## Android APK
-[Download APK (18.7M)](https://drive.google.com/file/d/1q-PUcM84T2YlBcrEtd4T14GE1DLSswgW/view?usp=sharing)
+[Download APK (18.7M)](https://drive.google.com/file/d/1p1RcFZkCtBJjaSiL-lF3JQKnoaiQX6qY/view?usp=sharing)
 
 #
 
